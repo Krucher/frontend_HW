@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  .block_1{
+      width: 100%;
+      background-color: #4516c5;
+      color: white;
+      font-size: 2rem;
+      padding: 1.4rem;
+      z-index: 1;
+  }
+  .second_h{
+      font-size:2.7rem;
+      font-weight: 700;
+      
+  }
+  .content_date{
+    position: relative;
+    font-size:1rem;
+    padding: .5rem;
+    border-radius: .3rem;
+    background-color: #ddd;
+    text-align: center;
+    height:10% ;
+    
+
+    }
+  .content_text{
+      position: relative;
+     font-size: 1rem;
+      left:.7rem;
+
+  }
+ 
+  .wide_class{
+    display: flex;
+    
+    width: 80%;
+    margin: 7rem auto;
+
+  }
+  p{
+      margin-top: 1rem;
+  }
